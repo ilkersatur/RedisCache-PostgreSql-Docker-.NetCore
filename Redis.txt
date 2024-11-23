@@ -1,0 +1,69 @@
+REmote DIctionary Service
+
+- Çıkış noktası hızdır. Çok yüksek hıza ihtiyaç duyulduğunda kullanılır.
+- Key:value şeklinde tasarlanmış bir NoSQL türünde veri tabanıdır. Key-value çiftinden daha fazlası ihtiyacınız olduğunda kullanılır.
+- Disk Üzerine yazılabilme özelliği opsiyonel olarak vardır. Datasetin kritik olmadığı yerlerde kullanılır. Redis bellek üzerinde verileri sakmasından dolayı çok fazla bellek kısıtlamaları vardır. Boş bir instance !MB bellek kullanır. !milyon key-value string çifti 100MB bellek kullanır 
+
+- Desteklenen veri türleri
+ 1-String
+ 2-Hash
+ 3-List
+ 4-Set
+ 5-Sorted Set
+ 6-Geospatial Index
+ 7-HyperLogLog
+
+- Nerelerde Kullanılır ?
+ 1-Database
+ 2-Caching Layer
+ 3-Message Broker
+
+- Nerelerde Kullanılmaz ?
+ 1- Bir ilişkisel veritabanı değildir. Aksine bu DB türlerinin ilişkilerini tanımlanacak katman olarak kullanılabilir. En iyi kullanım alanı ise, ön görülebilir DB boyutuyla hızla büyüyen veriler.
+
+
+---------------------
+Kullanım Durumları
+
+-> Cache Mekanizmalarında
+-> Pub/Sub
+-> Kuyrukların engellenmesi ve geciktirilmesinde
+-> Kısa Canlı verilerde
+-> Yorum Sayımlarda
+-> Gerçek verilerin analizlerinde
+-> Her defasında unique bir verinin saklanmasında
+
+ ------------
+Scaling
+
+Persistence
+Redis persistence için 2 farklı mekanizma sağlar:
+
+RDB (Redis database snapshots)
+AOF (Append only files)
+Replication
+
+1 Redis instance master olarak kullanılır. Diğer instance’lar ise slave olarak gelir ve bunlar master’ın kopyalarıdır.
+Client, slave ya da master instance’lardan birine bağlanır.
+Slave, default olarak sadece okuma işlemi yaparlar.
+Partitioning
+Veriyi bölebilir ve paylaşabilirsiniz.
+
+Failover
+
+Manuel
+Otomatik (Redis Sentinel - master-slave topoloji için)
+
+
+------------------------
+
+
+> dotnet new webapi -n "CachingWebApi"
+> docker run --name my-redis -p 6379:6379 -d redis
+
+dotnet add package Microsoft.EntityFrameworkCore
+dotnet add package Npgsql.EntityFrameworkCore.PostgreSQL
+dotnet add package Microsoft.EntityFrameworkCore.Design
+dotnet add package Microsoft.EntityFrameworkCore.Tools
+dotnet add package StackExchange.Redis
+dotnet add package Microsoft.Extensions.Chaching.StackExchangeRedis
