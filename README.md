@@ -75,6 +75,6 @@ docker run --name my-redis -p 6379:6379 -d redis
 dotnet new webapi -n "CachingWebApi"
 ```
 
-![Screenshot 6]([https://github.com/ilkersatur/RedisCache-PostgreSql-Docker-.NetCore/blob/main/RedisCache.png)
+![Screenshot 6](https://github.com/ilkersatur/RedisCache-PostgreSql-Docker-.NetCore/blob/main/RedisCache.png)
 
 ![Screenshot 7](https://github.com/ilkersatur/RedisCache-PostgreSql-Docker-.NetCore/blob/main/RedisCacheDocker.png)
