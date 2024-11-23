@@ -1,0 +1,228 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\ilkers\\Desktop\\CachingWebApi\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\ilkers\\Desktop\\CachingWebApi\\Migrations\\20241123222605_initial_migration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Migrations\\20241123222605_initial_migration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{17A1A18A-EFD2-47B7-AA1C-30AD38EC577B}|CachingWebApi.csproj|c:\\users\\ilkers\\desktop\\cachingwebapi\\controllers\\driverscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{17A1A18A-EFD2-47B7-AA1C-30AD38EC577B}|CachingWebApi.csproj|solutionrelative:controllers\\driverscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{17A1A18A-EFD2-47B7-AA1C-30AD38EC577B}|CachingWebApi.csproj|c:\\users\\ilkers\\desktop\\cachingwebapi\\models\\driver.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{17A1A18A-EFD2-47B7-AA1C-30AD38EC577B}|CachingWebApi.csproj|solutionrelative:models\\driver.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\ilkers\\Desktop\\CachingWebApi\\Migrations\\20241123203721_initial_migration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Migrations\\20241123203721_initial_migration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{17A1A18A-EFD2-47B7-AA1C-30AD38EC577B}|CachingWebApi.csproj|c:\\users\\ilkers\\desktop\\cachingwebapi\\services\\cacheservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{17A1A18A-EFD2-47B7-AA1C-30AD38EC577B}|CachingWebApi.csproj|solutionrelative:services\\cacheservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{17A1A18A-EFD2-47B7-AA1C-30AD38EC577B}|CachingWebApi.csproj|c:\\users\\ilkers\\desktop\\cachingwebapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{17A1A18A-EFD2-47B7-AA1C-30AD38EC577B}|CachingWebApi.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{17A1A18A-EFD2-47B7-AA1C-30AD38EC577B}|CachingWebApi.csproj|c:\\users\\ilkers\\desktop\\cachingwebapi\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{17A1A18A-EFD2-47B7-AA1C-30AD38EC577B}|CachingWebApi.csproj|solutionrelative:data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{17A1A18A-EFD2-47B7-AA1C-30AD38EC577B}|CachingWebApi.csproj|c:\\users\\ilkers\\desktop\\cachingwebapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{17A1A18A-EFD2-47B7-AA1C-30AD38EC577B}|CachingWebApi.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{17A1A18A-EFD2-47B7-AA1C-30AD38EC577B}|CachingWebApi.csproj|c:\\users\\ilkers\\desktop\\cachingwebapi\\cachingwebapi.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}",
+      "RelativeMoniker": "D:0:0:{17A1A18A-EFD2-47B7-AA1C-30AD38EC577B}|CachingWebApi.csproj|solutionrelative:cachingwebapi.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{17A1A18A-EFD2-47B7-AA1C-30AD38EC577B}|CachingWebApi.csproj|c:\\users\\ilkers\\desktop\\cachingwebapi\\services\\icacheservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{17A1A18A-EFD2-47B7-AA1C-30AD38EC577B}|CachingWebApi.csproj|solutionrelative:services\\icacheservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{17A1A18A-EFD2-47B7-AA1C-30AD38EC577B}|CachingWebApi.csproj|c:\\users\\ilkers\\desktop\\cachingwebapi\\cachingwebapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{17A1A18A-EFD2-47B7-AA1C-30AD38EC577B}|CachingWebApi.csproj|solutionrelative:cachingwebapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\ilkers\\Desktop\\CachingWebApi\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\ilkers\\Desktop\\CachingWebApi\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAABgAAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-23T19:24:50.817Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:138:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:136:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:137:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "20241123222605_initial_migration.cs",
+              "DocumentMoniker": "C:\\Users\\ilkers\\Desktop\\CachingWebApi\\Migrations\\20241123222605_initial_migration.cs",
+              "RelativeDocumentMoniker": "Migrations\\20241123222605_initial_migration.cs",
+              "ToolTip": "C:\\Users\\ilkers\\Desktop\\CachingWebApi\\Migrations\\20241123222605_initial_migration.cs",
+              "RelativeToolTip": "Migrations\\20241123222605_initial_migration.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-23T22:26:05.607Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "DriversController.cs",
+              "DocumentMoniker": "C:\\Users\\ilkers\\Desktop\\CachingWebApi\\Controllers\\DriversController.cs",
+              "RelativeDocumentMoniker": "Controllers\\DriversController.cs",
+              "ToolTip": "C:\\Users\\ilkers\\Desktop\\CachingWebApi\\Controllers\\DriversController.cs",
+              "RelativeToolTip": "Controllers\\DriversController.cs",
+              "ViewState": "AQIAAA0AAAAAAAAAAAAUwB0AAABCAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-23T21:37:36.167Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "CachingWebApi.http",
+              "DocumentMoniker": "C:\\Users\\ilkers\\Desktop\\CachingWebApi\\CachingWebApi.http",
+              "RelativeDocumentMoniker": "CachingWebApi.http",
+              "ToolTip": "C:\\Users\\ilkers\\Desktop\\CachingWebApi\\CachingWebApi.http",
+              "RelativeToolTip": "CachingWebApi.http",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003502|",
+              "WhenOpened": "2024-11-23T20:33:47.667Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\ilkers\\Desktop\\CachingWebApi\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "C:\\Users\\ilkers\\Desktop\\CachingWebApi\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-11-23T19:28:49.459Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\ilkers\\Desktop\\CachingWebApi\\Data\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "Data\\AppDbContext.cs",
+              "ToolTip": "C:\\Users\\ilkers\\Desktop\\CachingWebApi\\Data\\AppDbContext.cs",
+              "RelativeToolTip": "Data\\AppDbContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-23T19:27:21.934Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Driver.cs",
+              "DocumentMoniker": "C:\\Users\\ilkers\\Desktop\\CachingWebApi\\Models\\Driver.cs",
+              "RelativeDocumentMoniker": "Models\\Driver.cs",
+              "ToolTip": "C:\\Users\\ilkers\\Desktop\\CachingWebApi\\Models\\Driver.cs",
+              "RelativeToolTip": "Models\\Driver.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwAgAAAAZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-23T19:26:04.174Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "CacheService.cs",
+              "DocumentMoniker": "C:\\Users\\ilkers\\Desktop\\CachingWebApi\\Services\\CacheService.cs",
+              "RelativeDocumentMoniker": "Services\\CacheService.cs",
+              "ToolTip": "C:\\Users\\ilkers\\Desktop\\CachingWebApi\\Services\\CacheService.cs",
+              "RelativeToolTip": "Services\\CacheService.cs",
+              "ViewState": "AQIAAAEAAAAAAAAAAAAAABcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-23T21:09:11.521Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "ICacheService.cs",
+              "DocumentMoniker": "C:\\Users\\ilkers\\Desktop\\CachingWebApi\\Services\\ICacheService.cs",
+              "RelativeDocumentMoniker": "Services\\ICacheService.cs",
+              "ToolTip": "C:\\Users\\ilkers\\Desktop\\CachingWebApi\\Services\\ICacheService.cs",
+              "RelativeToolTip": "Services\\ICacheService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-23T21:06:07.963Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "20241123203721_initial_migration.cs",
+              "DocumentMoniker": "C:\\Users\\ilkers\\Desktop\\CachingWebApi\\Migrations\\20241123203721_initial_migration.cs",
+              "RelativeDocumentMoniker": "Migrations\\20241123203721_initial_migration.cs",
+              "ToolTip": "C:\\Users\\ilkers\\Desktop\\CachingWebApi\\Migrations\\20241123203721_initial_migration.cs",
+              "RelativeToolTip": "Migrations\\20241123203721_initial_migration.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAawBgAAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-23T20:37:22.057Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "CachingWebApi",
+              "DocumentMoniker": "C:\\Users\\ilkers\\Desktop\\CachingWebApi\\CachingWebApi.csproj",
+              "RelativeDocumentMoniker": "CachingWebApi.csproj",
+              "ToolTip": "C:\\Users\\ilkers\\Desktop\\CachingWebApi\\CachingWebApi.csproj",
+              "RelativeToolTip": "CachingWebApi.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-11-23T19:23:29.064Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
