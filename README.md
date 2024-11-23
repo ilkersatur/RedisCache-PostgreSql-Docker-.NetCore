@@ -63,6 +63,18 @@ Redis provides two persistence mechanisms:
 
 ## Example: Setting up Redis with .Net Core
 
+# Running a Redis Container
+
+To start a Redis container using Docker, execute the following command:
+
+```bash
+docker run --name my-redis -p 6379:6379 -d redis
+```
 ### Create a Web API Project
 ```bash
 dotnet new webapi -n "CachingWebApi"
+```
+
+![Screenshot 6]([https://github.com/ilkersatur/RedisCache-PostgreSql-Docker-.NetCore/blob/main/RedisCache.png))
+
+![Screenshot 7](https://github.com/ilkersatur/RedisCache-PostgreSql-Docker-.NetCore/blob/main/RedisCacheDocker.png)
