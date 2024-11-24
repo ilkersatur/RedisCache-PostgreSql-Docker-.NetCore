@@ -8,6 +8,8 @@
     - An empty instance uses 1 MB of memory. 
     - 1 million key-value string pairs use approximately 100 MB of memory.
 
+![Screenshot 6](https://github.com/ilkersatur/RedisCache-PostgreSql-Docker-.NetCore/blob/main/RedisCache.png)
+
 ## Supported Data Types
 1. **String**
 2. **Hash**
@@ -21,6 +23,8 @@
 1. **Database**
 2. **Caching Layer**
 3. **Message Broker**
+
+![Screenshot 7](https://github.com/ilkersatur/RedisCache-PostgreSql-Docker-.NetCore/blob/main/RedisInsight.png)
 
 ## Where It Should Not Be Used
 - Redis is not a relational database. However, it can be used as a layer to define relationships for such database types.
@@ -70,11 +74,10 @@ To start a Redis container using Docker, execute the following command:
 ```bash
 docker run --name my-redis -p 6379:6379 -d redis
 ```
+![Screenshot 7](https://github.com/ilkersatur/RedisCache-PostgreSql-Docker-.NetCore/blob/main/RedisCacheDocker.png)
+
 ### Create a Web API Project
 ```bash
 dotnet new webapi -n "CachingWebApi"
 ```
-
-![Screenshot 6](https://github.com/ilkersatur/RedisCache-PostgreSql-Docker-.NetCore/blob/main/RedisCache.png)
-
-![Screenshot 7](https://github.com/ilkersatur/RedisCache-PostgreSql-Docker-.NetCore/blob/main/RedisCacheDocker.png)
+![Screenshot 7](https://github.com/ilkersatur/RedisCache-PostgreSql-Docker-.NetCore/blob/main/Swagger.png)
