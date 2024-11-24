@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "VuHwtVNxZnxkzNMOSZA1rQJ9bs390w6/cLoE0WrGqhSSwkaGNVe7yreORwXb4YPWOS+CNpa+AUIQp00OWDmO/Q==",
+  "dgSpecHash": "P6uBDC+wUHvVq8AbC50DbYVGFa4ri4Ba2iAdhx4z5o+RU6y6nUPzSXUvxL5Z/dU+6mJIBKkPUC7ToTIrTI4dJw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\ilkers\\Desktop\\CachingWebApi\\CachingWebApi.csproj",
+  "projectFilePath": "C:\\Users\\ilkers\\Desktop\\RedisCache-PostgreSql-Docker-.NetCore\\CachingWebApi.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\ilkers\\.nuget\\packages\\humanizer.core\\2.14.1\\humanizer.core.2.14.1.nupkg.sha512",
     "C:\\Users\\ilkers\\.nuget\\packages\\microsoft.aspnetcore.openapi\\8.0.4\\microsoft.aspnetcore.openapi.8.0.4.nupkg.sha512",

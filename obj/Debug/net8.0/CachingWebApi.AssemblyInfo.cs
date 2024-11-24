@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("CachingWebApi")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+114d91b6e26a10bea0ae2aeedbc68f2485859253")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+aa9f8f3d3da20a74d1b78dca9d547cd2cdeecad0")]
 [assembly: System.Reflection.AssemblyProductAttribute("CachingWebApi")]
 [assembly: System.Reflection.AssemblyTitleAttribute("CachingWebApi")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

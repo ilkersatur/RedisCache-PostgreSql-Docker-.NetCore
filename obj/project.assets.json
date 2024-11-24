@@ -3507,11 +3507,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\ilkers\\Desktop\\CachingWebApi\\CachingWebApi.csproj",
+      "projectUniqueName": "C:\\Users\\ilkers\\Desktop\\RedisCache-PostgreSql-Docker-.NetCore\\CachingWebApi.csproj",
       "projectName": "CachingWebApi",
-      "projectPath": "C:\\Users\\ilkers\\Desktop\\CachingWebApi\\CachingWebApi.csproj",
+      "projectPath": "C:\\Users\\ilkers\\Desktop\\RedisCache-PostgreSql-Docker-.NetCore\\CachingWebApi.csproj",
       "packagesPath": "C:\\Users\\ilkers\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\ilkers\\Desktop\\CachingWebApi\\obj\\",
+      "outputPath": "C:\\Users\\ilkers\\Desktop\\RedisCache-PostgreSql-Docker-.NetCore\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\ilkers\\AppData\\Roaming\\NuGet\\NuGet.Config",

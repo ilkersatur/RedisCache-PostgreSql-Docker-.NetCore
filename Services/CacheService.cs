@@ -42,4 +42,9 @@ public class CacheService : ICacheService
 
         return _cacheDb.StringSet(key, JsonSerializer.Serialize(value), expirtyTime);
     }
+
+    public void ClearAll()
+    {
+        _cacheDb.Execute("FLUSHDB");
+    }
 }

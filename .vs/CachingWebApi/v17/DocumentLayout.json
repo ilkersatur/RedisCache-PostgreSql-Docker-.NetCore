@@ -1,17 +1,25 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\ilkers\\Desktop\\CachingWebApi\\",
+  "WorkspaceRootPath": "C:\\Users\\ilkers\\Desktop\\RedisCache-PostgreSql-Docker-.NetCore\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{17A1A18A-EFD2-47B7-AA1C-30AD38EC577B}|CachingWebApi.csproj|c:\\users\\ilkers\\desktop\\cachingwebapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{17A1A18A-EFD2-47B7-AA1C-30AD38EC577B}|CachingWebApi.csproj|c:\\users\\ilkers\\desktop\\rediscache-postgresql-docker-.netcore\\models\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{17A1A18A-EFD2-47B7-AA1C-30AD38EC577B}|CachingWebApi.csproj|solutionrelative:models\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{17A1A18A-EFD2-47B7-AA1C-30AD38EC577B}|CachingWebApi.csproj|c:\\users\\ilkers\\desktop\\rediscache-postgresql-docker-.netcore\\controllers\\customerscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{17A1A18A-EFD2-47B7-AA1C-30AD38EC577B}|CachingWebApi.csproj|solutionrelative:controllers\\customerscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{17A1A18A-EFD2-47B7-AA1C-30AD38EC577B}|CachingWebApi.csproj|c:\\users\\ilkers\\desktop\\rediscache-postgresql-docker-.netcore\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{17A1A18A-EFD2-47B7-AA1C-30AD38EC577B}|CachingWebApi.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{17A1A18A-EFD2-47B7-AA1C-30AD38EC577B}|CachingWebApi.csproj|c:\\users\\ilkers\\desktop\\cachingwebapi\\services\\cacheservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{17A1A18A-EFD2-47B7-AA1C-30AD38EC577B}|CachingWebApi.csproj|c:\\users\\ilkers\\desktop\\rediscache-postgresql-docker-.netcore\\services\\cacheservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{17A1A18A-EFD2-47B7-AA1C-30AD38EC577B}|CachingWebApi.csproj|solutionrelative:services\\cacheservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{17A1A18A-EFD2-47B7-AA1C-30AD38EC577B}|CachingWebApi.csproj|c:\\users\\ilkers\\desktop\\cachingwebapi\\services\\icacheservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{17A1A18A-EFD2-47B7-AA1C-30AD38EC577B}|CachingWebApi.csproj|c:\\users\\ilkers\\desktop\\rediscache-postgresql-docker-.netcore\\services\\icacheservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{17A1A18A-EFD2-47B7-AA1C-30AD38EC577B}|CachingWebApi.csproj|solutionrelative:services\\icacheservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -22,21 +30,20 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 6,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 2,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\ilkers\\Desktop\\CachingWebApi\\Program.cs",
+              "DocumentMoniker": "C:\\Users\\ilkers\\Desktop\\RedisCache-PostgreSql-Docker-.NetCore\\Program.cs",
               "RelativeDocumentMoniker": "Program.cs",
-              "ToolTip": "C:\\Users\\ilkers\\Desktop\\CachingWebApi\\Program.cs",
+              "ToolTip": "C:\\Users\\ilkers\\Desktop\\RedisCache-PostgreSql-Docker-.NetCore\\Program.cs",
               "RelativeToolTip": "Program.cs",
-              "ViewState": "AQIAAAYAAAAAAAAAAAAAABgAAAAVAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABgAAAAVAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-11-23T19:24:50.817Z",
-              "IsPinned": true,
-              "EditorCaption": ""
+              "IsPinned": true
             },
             {
               "$type": "Bookmark",
@@ -60,29 +67,52 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "CacheService.cs",
-              "DocumentMoniker": "C:\\Users\\ilkers\\Desktop\\CachingWebApi\\Services\\CacheService.cs",
-              "RelativeDocumentMoniker": "Services\\CacheService.cs",
-              "ToolTip": "C:\\Users\\ilkers\\Desktop\\CachingWebApi\\Services\\CacheService.cs",
-              "RelativeToolTip": "Services\\CacheService.cs",
-              "ViewState": "AQIAAB0AAAAAAAAAAAAawCoAAAAIAAAA",
+              "DocumentIndex": 0,
+              "Title": "Customer.cs",
+              "DocumentMoniker": "C:\\Users\\ilkers\\Desktop\\RedisCache-PostgreSql-Docker-.NetCore\\Models\\Customer.cs",
+              "RelativeDocumentMoniker": "Models\\Customer.cs",
+              "ToolTip": "C:\\Users\\ilkers\\Desktop\\RedisCache-PostgreSql-Docker-.NetCore\\Models\\Customer.cs",
+              "RelativeToolTip": "Models\\Customer.cs",
+              "ViewState": "AQIAAAsAAAAAAAAAAAAAAAQAAABBAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-24T11:03:12.287Z",
+              "WhenOpened": "2024-11-24T12:42:44.848Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "ICacheService.cs",
-              "DocumentMoniker": "C:\\Users\\ilkers\\Desktop\\CachingWebApi\\Services\\ICacheService.cs",
-              "RelativeDocumentMoniker": "Services\\ICacheService.cs",
-              "ToolTip": "C:\\Users\\ilkers\\Desktop\\CachingWebApi\\Services\\ICacheService.cs",
-              "RelativeToolTip": "Services\\ICacheService.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAqwAcAAAAgAAAA",
+              "DocumentIndex": 1,
+              "Title": "CustomersController.cs",
+              "DocumentMoniker": "C:\\Users\\ilkers\\Desktop\\RedisCache-PostgreSql-Docker-.NetCore\\Controllers\\CustomersController.cs",
+              "RelativeDocumentMoniker": "Controllers\\CustomersController.cs",
+              "ToolTip": "C:\\Users\\ilkers\\Desktop\\RedisCache-PostgreSql-Docker-.NetCore\\Controllers\\CustomersController.cs",
+              "RelativeToolTip": "Controllers\\CustomersController.cs",
+              "ViewState": "AQIAADIAAAAAAAAAAAAwwEQAAABNAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-24T11:03:10.443Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-11-24T11:57:02.798Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "CacheService.cs",
+              "DocumentMoniker": "C:\\Users\\ilkers\\Desktop\\RedisCache-PostgreSql-Docker-.NetCore\\Services\\CacheService.cs",
+              "RelativeDocumentMoniker": "Services\\CacheService.cs",
+              "ToolTip": "C:\\Users\\ilkers\\Desktop\\RedisCache-PostgreSql-Docker-.NetCore\\Services\\CacheService.cs",
+              "RelativeToolTip": "Services\\CacheService.cs",
+              "ViewState": "AQIAAA8AAAAAAAAAAAAowBsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-24T11:03:12.287Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ICacheService.cs",
+              "DocumentMoniker": "C:\\Users\\ilkers\\Desktop\\RedisCache-PostgreSql-Docker-.NetCore\\Services\\ICacheService.cs",
+              "RelativeDocumentMoniker": "Services\\ICacheService.cs",
+              "ToolTip": "C:\\Users\\ilkers\\Desktop\\RedisCache-PostgreSql-Docker-.NetCore\\Services\\ICacheService.cs",
+              "RelativeToolTip": "Services\\ICacheService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwAkAAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-24T11:03:10.443Z"
             }
           ]
         }

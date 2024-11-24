@@ -6,5 +6,7 @@
         bool SetData<T>(string key, T value, DateTimeOffset expirationTime);
 
         object RemoveData(string key);
+
+        void ClearAll(); // Tüm cache'i temizlemek için eklenen metot
     }
 }
